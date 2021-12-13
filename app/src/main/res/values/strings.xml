@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Midterm2_Daliev Azim</string>
+    <string name="producttitle">Nike Air Max 270 Rea...</string>
+    <string name="search">search</string>
+    <string name="left">left</string>
+    <string name="more">more</string>
+    <string name="productimage">productimage</string>
+    <string name="slideshow">slideshow</string>
+    <string name="producttext">Nike Air Zoom Pegasus 36 Miami</string>
+    <string name="favourites">favourites</string>
+    <string name="starrating">starrating</string>
+    <string name="price">$299,43</string>
+    <string name="size">Select Size</string>
+    <string name="selectsize">selectsize</string>
+    <string name="Color">Select Color</string>
+    <string name="selectcolor">selectcolor</string>
+    <string name="_5_review">5 Review</string>
+    <string name="line39">line39</string>
+    <string name="filterreview">filterreview</string>
+    <string name="profile">profile</string>
+    <string name="profiletext">air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.</string>
+    <string name="productpicture">productpicture</string>
+    <string name="date">December 10, 2016</string>
+    <string name="profile2">profile2</string>
+    <string name="profiletext2">This is really amazing product, i like the design of product, I hope can buy it again!t</string>
+    <string name="profile3">profile3</string>
+</resources>
