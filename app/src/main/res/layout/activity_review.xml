@@ -154,7 +154,7 @@
         android:layout_marginTop="24dp"
         android:background="@drawable/profile__2_"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/date2">
+        app:layout_constraintTop_toBottomOf="@+id/date2"/>
 
 
     <TextView
@@ -171,11 +171,15 @@
         app:layout_constraintTop_toBottomOf="@+id/profile3" />
 
     <ImageView
-        android:layout_width="176dp"
-        android:layout_height="48dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="24dp"
-        />
+        android:layout_width="343dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="36dp"
+        android:id="@+id/buttonreview"
+        android:contentDescription="@string/buttonreview"
+        android:background="@drawable/write_review_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profiletext3" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
